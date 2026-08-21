@@ -67,8 +67,8 @@ A visually interactive 2D Maze Game built using Java Swing, featuring multiple g
 - 🖥️ Fullscreen responsive scaling
 - 💾 Save/load progress
 
-👤 Author
+## 🧑‍💻 Author
 
-Pujan Rasaili
-
-GitHub: https://github.com/pujanrasaili
+**Pujan Rasaili**
+Software Engineering Student
+GitHub: [@pujanrasaili](https://github.com/pujanrasaili)
